@@ -1,4 +1,6 @@
 # frntn/pki-manager
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffrntn%2Fpki-manager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffrntn%2Fpki-manager?ref=badge_shield)
+
 
 ## Description
 
@@ -106,3 +108,7 @@ git commit -m "First Commit"
 git remote add origin git@gitlab.example.com:PKIs/terminator-pki.git
 git push -u origin master
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffrntn%2Fpki-manager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffrntn%2Fpki-manager?ref=badge_large)
